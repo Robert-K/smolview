@@ -1,4 +1,4 @@
-MolView Lite
+SMolView 🤏
 ============
 This is a stripped-down version of the legacy codebase of MolView.org. In
 particular this version does not require PHP (and thus removes all PHP dependant
